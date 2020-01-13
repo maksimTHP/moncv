@@ -1,0 +1,29 @@
+.jumbotron{
+width: 100%;
+max-width: 100%;
+min-width: 720px;
+height: 550px;
+}
+
+.card {
+  border: none;
+}
+
+
+.myfont {
+  font-family: 'Playfair Display', serif;
+  color: dimgray;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: black;
+  background: gainsboro;
+}
